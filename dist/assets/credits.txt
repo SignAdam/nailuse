@@ -1,0 +1,12 @@
+Nailuse
+
+Les photographies et planches de référence ont été fournies par le créateur du site.
+
+Main : « Rigged hand », Elena FF, CC BY-SA 4.0.
+Source : https://sketchfab.com/3d-models/rigged-hand-eae97cc2a742413cb5338ab942b12c1e
+Licence : https://creativecommons.org/licenses/by-sa/4.0/
+Le fichier de maillage original est conservé. Dans le studio, sa carnation est modifiée et des capsules personnalisables sont ajoutées. Ces adaptations visuelles du modèle sont proposées sous la même licence CC BY-SA 4.0.
+
+Three.js : Copyright © 2010–2025 three.js authors, licence MIT (three-license.txt).
+
+Révision du studio : silhouette affinée, capsules ajustées aux ongles natifs. Texture de peau adaptée avec l’outil de génération d’image intégré, à partir de l’atlas original ; adaptation CC BY-SA 4.0.
